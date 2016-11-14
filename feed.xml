@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Wintersmith's blog</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Ramblings of an immor(t)al demigod</description>
+    <pubDate>Sun, 13 Nov 2016 19:00:00 -0500</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Depressing 25</title>
+      <link>http://localhost:8080/articles/mood/</link>
+      <pubDate>Sun, 13 Nov 2016 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/mood/</guid>
+      <author></author>
+      <description>&lt;p&gt;我的临床抑郁（depression）的症状当然很糟糕，是最优先的治疗目标。&lt;/p&gt;
+&lt;p&gt;但我觉得有点略难沟通的一点的是：我不抑郁的时候，情况也只是稍微好一点。&lt;/p&gt;
+&lt;p&gt;正常的我已有慢性疲劳（low energy/fatigue）、注意力涣散、兴味索然（anhedonia）等问题。&lt;/p&gt;
+&lt;p&gt;而我的郁期症状除了以上症状的加重版、还有空虚（emptiness）和迟缓（slowiness)&lt;span style=&quot;background: #171717&quot;&gt;以及自杀意念（suicidal ideation）&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;有时候会和医生聊到我正常时的状况，我会向医生强调我慢性的、长达大概十三四年的无法忍受的疲劳问题：远低于常人的出门频率，过长时间的睡眠、半睡和躺憩，糟糕的胃口，对简单的日常生活（daily routine）的健忘和无能为力，对有限精力的小心保留，对满足感的麻木等。&lt;/p&gt;
+&lt;p&gt;这是病理级别的疲劳。（症状至少可以包围心境恶劣障碍（Dysthymia）的诊断）&lt;/p&gt;
+&lt;p&gt;医生问道，你感觉这是心理问题，还是生理（physical）问题？&lt;br&gt;我秒答，“生理”。&lt;br&gt;医生：“那你能想到一些线索么？”&lt;br&gt;我：“没有，我一直很健康。” （至少化验单一直很正常）&lt;br&gt; 在说到“健康”的时候，我用双手在空中画了两个大大的引号。&lt;br&gt;医生笑说：“这样的健康，其实很糟糕吧。”&lt;br&gt;我点头。&lt;br&gt;（正是因为化验单看不出问题，所以才看精神医生）&lt;br&gt;（但仍然期待着精神医生能找到生理上的病源）&lt;br&gt;（荷尔蒙、营养、过敏等…）&lt;br&gt;（如果可能的话）&lt;/p&gt;
+&lt;p style=&quot;font-size:14px&quot;&gt;
+尝试了很多种抗抑郁药（antidepressant）&lt;br&gt;处方药或者OTC的supplements。它们带来的只有不良反应。&lt;br&gt;大约一个月之前，这些抗抑郁药把我从“郁”拉到了光谱的另一边：“躁”。&lt;br&gt;发生了一个星期的短暂“轻躁？”。&lt;br&gt;那是一种非常复杂的感受。&lt;br&gt;一个崭新的人格从抑郁中浮出，并粗暴地将抑郁挤开。&lt;br&gt;那种从来没有经历过的充沛精力另我流连。&lt;br&gt;但也伴随着从来没有经历过的强烈的困惑、矛盾、失真和混乱，还有难以控制的思维奔逸、以及对过去的否定、对世间的不屑、与对自我的丧失。&lt;br&gt;躁和郁两种人格在内心里的激战几乎让我头痛。&lt;br&gt;最终轻躁用尽了燃油、黯然退场，抑郁又迅速弥漫开来。&lt;br&gt;不过，那充沛的精力仍像个美丽的梦，令我常常想着重逢。&lt;br&gt;然而，医生从此再也不开无用的抗抑郁药了，取而代之的是治疗躁郁症的心情稳定剂。&lt;br&gt;（抑郁症和躁郁症是两个不能共存的诊断）&lt;br&gt;（但是，depression也好，bipolar II也好，诊断什么的对我大概都不重要了）&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;医生：除了那一个星期你感受到奇怪的精力以外，长期以来，你大概从来没有觉得有精力过吧。
+我：没有。&lt;/p&gt;
+&lt;p style=&quot;font-size:14px&quot;&gt;
+进入青春期后的人生，大部分的时间都在睡觉或者精神断电，其他的时间就是翻翻闲书、捅捅电脑、摸摸电玩什么的。&lt;br&gt;纸面上的能力：字也识得、饭也能做、英语和电脑都懂点。&lt;br&gt;能做的事是有一些、想做的事情有很多，但是强行需要的休憩则更多。&lt;br&gt;渐渐地，连外交人格也无力维持。&lt;br&gt;长此以往，最终陷入反复的临床抑郁，也是很自然的吧。&lt;br&gt;（锻炼也好，饮食也好，效率技巧也好，这些当然都主动或者被动尝试过。）&lt;br&gt;（会厌倦这些建议）&lt;br&gt;（所以说，当common practice都不好用的时候，就应该寻找专业帮助）
+&lt;/p&gt;
+
+&lt;p&gt;我：作为一个有“精神障碍”的年轻人（据说失学率很高），却仍能收获教育和职业技能，我觉得我应该觉得有福气（blessed）吧。&lt;br&gt;医生：你真的这样觉得吗？&lt;br&gt;我：…… no，这不是福气，而是失衡（imbalanced）。  &lt;/p&gt;
+&lt;p style=&quot;font-size:14px&quot;&gt;
+由于脑神经科学尚需努力，现代精神医学的理论根基不是生理学，而是统计学。目前的状况大体是:
+&lt;/p&gt;
+&lt;p style=&quot;font-size:14px&quot;&gt;
+（小明有一些糟糕的症状）&lt;br&gt;从症状出发(小明满足XX障碍的M条症状中的N条)、&lt;br&gt;从症状总结成诊断（所以小明被诊断为XX障碍）（&amp;lt;-归纳逻辑）&lt;br&gt;然后根据诊断来治疗 （给小明开控制XX障碍的症状的药）&lt;br&gt;接着循环到通过诊断又来描述症状（因为XX障碍，小明有N1、N2等症状）（&amp;lt;- 循环论证）。
+&lt;/p&gt;
+
+&lt;p&gt;总之，尽管套着现代医学的皮，精神医学的精确度却离其他学科很远。&lt;br&gt;但行医之人仍然可以很有帮助。 &lt;/p&gt;
+&lt;p&gt;只有医生看到了我的日常是与隐形敌人进行的竭力周旋。&lt;br&gt;她告诉我这种孤独有多难过。&lt;br&gt;是啊，但这已经渗透在生命里，我都快忘记了。  &lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
