@@ -5,9 +5,31 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description>:snail:</description>
-    <pubDate>Sun, 13 Nov 2016 19:00:00 -0500</pubDate>
+    <pubDate>Mon, 14 Nov 2016 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>牵着骆驼踏进雨林</title>
+      <link>http://localhost:8080/articles/bp/</link>
+      <pubDate>Mon, 14 Nov 2016 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/bp/</guid>
+      <author></author>
+      <description>&lt;p&gt;昨天早上刚想念着我以前的（很轻的）轻度狂躁，下午就来了。（突然开始公开写东西其实是个兆头）&lt;/p&gt;
+&lt;p&gt;但是，好不容易来了，我想要留住它。（就算可能会后悔）&lt;/p&gt;
+&lt;p&gt;如果不是原本就有躁郁症（bipolar），引发狂躁的药物一般是抗抑郁药(antidepressant)和兴奋剂（stimulant）。&lt;/p&gt;
+&lt;p&gt;而我并没有在用上述两种药，而是在用治疗躁郁症的药(= =)。但是该药仍有较小可能性引发狂躁，也有可能抑制狂躁。&lt;/p&gt;
+&lt;p&gt;我的轻度狂躁的原因的可能性（保持现状的方案）有如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主要和生理周期有关（我无能为力）  &lt;/li&gt;
+&lt;li&gt;该药引发了轻度狂躁（那我似乎应该继续用药）  &lt;/li&gt;
+&lt;li&gt;天然的躁郁症，和该药没有关系（停用与否不造成影响）  &lt;/li&gt;
+&lt;li&gt;天然的躁郁症，但该药却有可能抑制狂躁（应该停用）  &lt;/li&gt;
+&lt;li&gt;该药的暂时不良反应（停用与否我都无能为力）  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我还是决定继续用药，不然医生也可能会讨厌我吧。
+但如果它把hypomania加剧到真正的mania，那就过分了。&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Depressing 25</title>
       <link>http://localhost:8080/articles/mood/</link>
